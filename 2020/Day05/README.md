@@ -26,8 +26,8 @@ Start by considering the whole range, columns 0 through 7.
 R means to take the upper half, keeping columns 4 through 7.
 L means to take the lower half, keeping columns 4 through 5.
 The final R keeps the upper of the two, column 5.
-So, decoding FBFBBFFRLR reveals that it is the seat at row 44, column 5.
 ```
+So, decoding FBFBBFFRLR reveals that it is the seat at row 44, column 5.
 Every seat also has a unique seat ID: multiply the row by 8, then add the column. In this example, the seat has ID 44 * 8 + 5 = 357.
 
 Here are some other boarding passes:
@@ -35,8 +35,8 @@ Here are some other boarding passes:
 BFFFBBFRRR: row 70, column 7, seat ID 567.
 FFFBBBFRRR: row 14, column 7, seat ID 119.
 BBFFBBFRLL: row 102, column 4, seat ID 820.
-As a sanity check, look through your list of boarding passes. What is the highest seat ID on a boarding pass?
 ```
+As a sanity check, look through your list of boarding passes. What is the highest seat ID on a boarding pass?
 Your puzzle answer was <b>880</b>.<br><br>
 
 # Part Two
