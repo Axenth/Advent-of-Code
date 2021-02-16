@@ -4,4 +4,4 @@ Nothing really special to be found here.<br> I just like participating in these 
 <br><br>
 ## Golden Stars
 2019 - 8* (code from day03 onward got lost unfortunatly)<br>
-2020 - ongoing (01/12/2020 - 25/12/2020)
+2020 - 12*
